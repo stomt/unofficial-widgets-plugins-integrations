@@ -5,4 +5,4 @@ This is a list of unofficial STOMT plugins, integrations, widgets of any kind
 [STOMT Wordpress-Plugin](https://de.wordpress.org/plugins/stomt-instant-feedback-button/) by [@ptnplanet](https://github.com/ptnplanet)
 
 # Drupal
-(Requested)
+[STOMT Drupal Module](https://www.drupal.org/project/stomt)
