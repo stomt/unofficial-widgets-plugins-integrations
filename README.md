@@ -6,3 +6,6 @@ This is a list of unofficial STOMT plugins, integrations, widgets of any kind
 
 # Drupal
 [STOMT Drupal Module](https://www.drupal.org/project/stomt)
+
+# KirbyCMS
+[STOMT KirbyCMS Extension](https://github.com/stomt/stomt-kirby-extension) by [@philippzentner]
